@@ -1,24 +1,18 @@
-# saper
+# Игра сапер
+Доступна по ссылке: https://chistayaaa.github.io/saper/  
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+## Установка проекта
+```- Скачать zip проект
+- Открыть в IDE
+- npm install
+- npm run serve 
 ```
 
-### Compiles and minifies for production
+## Реализовано
 ```
-npm run build
+- поле 16*16, счетчик мин и секунд
+- первый клик всегда не по мине
+- мины расставляются случайно
+- ставятся флажки, вопросительные знаки правой кнопкой мыши
+- смайлик меняется при удержании клетки поля / проигрыше / выигрыше
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
